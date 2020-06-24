@@ -3,7 +3,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: jboss-server
-  namespace: java
+  #namespace: java
   labels:
     app: jbossapi
 spec:
@@ -29,7 +29,7 @@ kind: Service
 apiVersion: v1
 metadata:
   name: jboss-service
-  namespace: java
+  #namespace: java
 spec:
   selector:
     app: jbossapi
@@ -45,7 +45,7 @@ spec:
 apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
-  namespace: java
+  #namespace: java
   name: jboss-ingress
   annotations:
     allow.http: "false"
