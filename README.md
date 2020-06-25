@@ -8,7 +8,7 @@
 
 # pipeline-example-java
 
-This is a sample golang project to demonstrate the integration with rancher pipeline......
+This is a sample golang project to demonstrate the integration with rancher pipeline.......
 
 # License
 
