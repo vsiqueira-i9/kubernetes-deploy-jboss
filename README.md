@@ -12,7 +12,7 @@ This is a sample golang project to demonstrate the integration with rancher pipe
 
 # License
 
-Copyright (c) 2014-2018 [Rancher Labs, Inc.](http://rancher.com)
+Copyright (c) 2014-2018 [Rancher Labs, Inc.](http://rancher.com)bbb
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
